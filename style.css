@@ -1,0 +1,39 @@
+.container{
+    vertical-align: middle;
+    text-align: center;
+    color: #ffffff;
+    padding: 50px;
+}
+body{
+    background-color: rgb(148, 155, 155);
+}
+h2{
+  color: #ffffff;  
+  text-align: center;
+  font-size: 86px;
+}
+h3{
+    color: #ffffff;  
+    text-align: center;
+    font-size: 56px;
+  }
+.card{
+    background-color: aqua;
+    color: #ffffff;
+    text-align: center;
+}
+
+.humidity-icon, .wind-icon{
+width: 75px;
+}
+.weather-icon{
+    margin-bottom: 50px;
+}
+p{
+    font-size: 26px;
+    font-weight: 500;
+}
+
+#weatherResult{
+    display: none;
+}
